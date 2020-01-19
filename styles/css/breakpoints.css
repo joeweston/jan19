@@ -1,0 +1,15 @@
+/*
+exapmple
+body {
+  color: $body-color;
+  @include screen(small){
+    background-color: #FFFFE4;
+  }
+  @include screen(medium){
+    background-color: #eee;
+  }
+  @include screen(large){
+    background-color: yellow;
+  }
+}
+ */

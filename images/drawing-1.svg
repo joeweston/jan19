@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="3779.5" height="3779.5" version="1.1" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1229" x="-.068965" y="-.19954" width="1.1379" height="1.3991" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="42.074436"/>
+  </filter>
+  <filter id="filter1233" x="-.074927" y="-.1828" width="1.1499" height="1.3656" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="42.074436"/>
+  </filter>
+  <filter id="filter1237" x="-.075202" y="-.2293" width="1.1504" height="1.4586" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="42.074436"/>
+  </filter>
+  <filter id="filter1241" x="-.075202" y="-.2293" width="1.1504" height="1.4586" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="42.074436"/>
+  </filter>
+  <filter id="filter1245" x="-.075202" y="-.22186" width="1.1504" height="1.4437" style="color-interpolation-filters:sRGB">
+   <feGaussianBlur stdDeviation="42.074436"/>
+  </filter>
+ </defs>
+ <g transform="translate(0,703)">
+  <rect x="-132.37" y="-749.25" width="1251.2" height="1149.6" style="fill-opacity:.9998;fill:#154757;paint-order:markers fill stroke"/>
+  <path d="m-122.95 211.99c89.243-96.783 226.21-144.67 354.54-174.02 133.72-30.583 278.76 8.8605 411.52 2.7192 98.449-4.5542 208.51-177.05 315.85-136.59 149.76 56.446 205.26 434.05 205.26 434.05l-1342.8 14.967s21.319-103.95 55.592-141.12z" style="fill:#26276b;filter:url(#filter1245);paint-order:markers fill stroke"/>
+  <path transform="rotate(180 487.39 -17.719)" d="m-128.39 68.74c89.928-96.148 226.21-144.67 354.54-174.02 133.72-30.583 278.76 8.8605 411.52 2.7192 98.449-4.5542 208.11-175.96 315.85-136.59 146.73 53.617 208.89 419.54 208.89 419.54s-371.74-103.63-562.59-106.75c-263.17-4.3106-780.18 121.72-780.18 121.72s20.803-93.294 51.966-126.61z" style="fill:#261641;filter:url(#filter1241);paint-order:markers fill stroke"/>
+  <path d="m-115.7-98.352c89.928-96.148 226.21-144.67 354.54-174.02 133.72-30.583 278.76 8.8605 411.52 2.7192 98.449-4.5542 208.11-175.96 315.85-136.59 146.73 53.617 208.89 419.54 208.89 419.54s-371.74-103.63-562.59-106.75c-263.17-4.3106-780.18 121.72-780.18 121.72s20.803-93.294 51.966-126.61z" style="fill:#20465e;filter:url(#filter1237);paint-order:markers fill stroke"/>
+  <path d="m-135.65-342.43c51.544-125.16 42.007-300.89 155.08-375.29 185.3-121.93 532.62 16.114 665.37 9.9722 98.449-4.5542 288.96-72.123 386.57 12.096 119.21 102.86 83.774 464.87 83.774 464.87s-371.74-103.63-562.59-106.75c-263.17-4.3106-780.18 121.72-780.18 121.72s34.593-84.429 51.966-126.61z" style="fill:#22205e;filter:url(#filter1233);paint-order:markers fill stroke"/>
+  <path transform="rotate(180 475.61 -145.55)" d="m-164.66 103.19c102.88-105.9 247.45-173.13 390.81-208.47 133.19-32.836 278.76 8.8605 411.52 2.7192 98.449-4.5542 201.22-140.7 315.85-136.59 109.09 3.9116 290.49 151.18 290.49 151.18s-252.64 291.84-428.4 341.12c-200.05 56.088-410.61-78.797-618.37-78.176-139.16 0.41563-322.71 159.99-413.85 54.835-11.524-13.296 7.9712-34.393 14.297-50.812 10.143-26.328 18.008-55.564 37.669-75.8z" style="fill:#261641;filter:url(#filter1229);paint-order:markers fill stroke"/>
+ </g>
+</svg>
